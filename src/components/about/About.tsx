@@ -26,7 +26,7 @@ const About = () => {
               <div className="flex flex-col mt-4">
                 <h2 className="text-2xl font-bold text-white/80 ">Education</h2>
                 <p className="text-lg text-white/70 mt-2">
-                  I hold a certification in Frontend Development and i am
+                  I hold a certification in Front-end Development and i am
                   focusing on
                   <br />
                   technologies like React, Next.js, and Tailwind CSS.
@@ -54,8 +54,7 @@ const About = () => {
                   Problem-Solving
                 </h2>
                 <p className="text-lg text-white/70 mt-2">
-                  I apprach challanges with a <br />
-                  logical and systematic <br />
+                  I approach challanges with a logical and systematic <br />
                   mindset.
                 </p>
               </div>
@@ -106,8 +105,8 @@ const About = () => {
                   Technical Skills
                 </h2>
                 <p className="text-lg text-white/70 mt-2">
-                  As a Frontend Developer, i specialize in React <br />
-                  JS, Next.js, and Tailwind CSS. My expertise and extends to
+                  As a Front-end Developer, i specialize in React <br />
+                  JS, Next.js, and Tailwind CSS. My expertise extends to
                   creating <br /> responsive, user-friendly interface.
                 </p>
               </div>
