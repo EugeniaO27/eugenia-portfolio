@@ -25,7 +25,7 @@ const projects = [
     title: "TO-DO LIST",
     desc: " This is an app that contains all the tasks that needs to be done and can be ticked off accordingly.",
     devStack: " react, javascript, tailwind, Css",
-    link: "#",
+    link: "https://todolist-app-snowy-rho-vercel.app",
     git: "#",
     src: "/todo.jpg",
   },
