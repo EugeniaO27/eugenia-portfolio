@@ -9,7 +9,7 @@ const projects = [
     title: "E shop",
     desc: "E-Shop is an ecommerce web application that enables users to buy different electronic devices such as phones, laptops, watch, headphones e.t.c at their comfort of their homes.",
     devStack: "express.js, react,next.js, typescript, tailwind",
-    link: "#",
+    link: "https://just-electronics.onrender.com/",
     git: "#",
     src: "/mike.png",
   },
@@ -17,7 +17,7 @@ const projects = [
     title: "Weather App",
     desc: "wheather app is a weather forecasting application designed to provide users with up-to-date and accurate information about current weather conditions and time of a given location.",
     devStack: "vanilla javascript, html, Css",
-    link: "#",
+    link: "https://weather-app-gamma-henna-29.vercel.app",
     git: "#",
     src: "/weather.jpg",
   },
@@ -64,7 +64,7 @@ const Portfolio = () => {
               <p className="text-xl text-orange-400 font-semibold">
                 {project.devStack}
               </p>
-              <div className="w-64 h-[1px] bg-gray-400 my-2">
+              <div className="w-64  md:h-[1px] h-[20px]  md:bg-gray-400 my-2">
                 <a href={project.link} className="mr-6">
                   Link
                 </a>
