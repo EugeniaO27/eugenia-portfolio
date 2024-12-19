@@ -21,13 +21,14 @@ const projects = [
     git: "#",
     src: "/weather.jpg",
   },
+
   {
-    title: "TO-DO LIST",
-    desc: " This is an app that contains all the tasks that needs to be done and can be ticked off accordingly.",
-    devStack: " react, javascript, tailwind, Css",
-    link: "https://todolist-app-snowy-rho-vercel.app",
+    title: "Restaurant",
+    desc: " This is a mobile/web-based app that allows customers to interact with a restaurant, and helps the restaurant manage its operation online.",
+    devStack: " react, next.js, javascript, typescript, tailwind.",
+    link: "https://amy-restaurant.vercel.app",
     git: "#",
-    src: "/todo.jpg",
+    src: "/restaurant.PNG",
   },
 ];
 
